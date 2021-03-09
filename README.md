@@ -1,3 +1,3 @@
 # rsshool-cv_stage1
 
-<https://zebnitskyMax.github.io/rsschool-cv_stage1/cv>
+<https://zebnitskymax.github.io/rsschool-cv_stage1/cv>
